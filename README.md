@@ -29,6 +29,7 @@ The best way to run the course software is to use a **Docker container**. Thereâ
 + Go to ``docs.docker.com`` in your browser.
 + Step one of the instructions sends you to download ``Docker``.
 + Run that downloaded file to install Docker.
++ Windows: Check this information: https://docs.docker.com/docker-for-windows/install/#what-to-know-before-you-install
 + At the end of the install process a whale in the top status bar indicates that Docker is running, and accessible from a terminal.
 + Click the whale to get ``Preferences``, and other options.
 + Open a command-line terminal, and run some Docker commands to verify that Docker is working as expected.
