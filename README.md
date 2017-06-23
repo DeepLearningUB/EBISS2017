@@ -2,7 +2,7 @@
         <img width="25%" src="deeplearninginside2.png" alt="About screen" title="About screen"</img>
 </div>
 
-## DeepLearningMaster Repository
+## "Let's open the black box of deep learning!" Repository
 
 This repository contains notebooks used in the tutorial "Let's open the black box of deep learning!" of the 
 Seventh European Business Intelligence & Big Data Summer School (eBISS2017).
