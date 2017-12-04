@@ -4,10 +4,9 @@
 
 ## "Let's open the black box of deep learning!" Repository
 
-This repository contains notebooks used in the tutorial "Let's open the black box of deep learning!" of the 
-Seventh European Business Intelligence & Big Data Summer School (eBISS2017).
-
-http://cs.ulb.ac.be/conferences/ebiss2017/
+This repository contains notebooks used in the "Let's open the black box of deep learning!" tutorial. This tutorial has been given at:
++ [Seventh European Business Intelligence & Big Data Summer School (eBISS2017)](http://cs.ulb.ac.be/conferences/ebiss2017/)
++ [JIRC 2017: Journée Informatique de Région Centre, France](http://www.info.univ-tours.fr/ICVL/jirc-2017.php)
 
 ## Course Description
 
